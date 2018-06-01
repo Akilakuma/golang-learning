@@ -7,7 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("hi")
 
 	// 打開redis
 	redisConnect, err := redis.Dial("tcp", "127.0.0.1:6379")
