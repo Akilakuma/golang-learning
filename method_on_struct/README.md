@@ -17,4 +17,4 @@ NANANA
 
 
 ##結論：
-使用fucntion test2 是refference的概念，就指向ㄧ個新的記憶體，所以不會互相影響yo!
+使用fucntion test2 裡面的Foo是指向ㄧ個新的記憶體，所以不會互相影響yo!

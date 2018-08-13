@@ -2,6 +2,6 @@
 ===
 
 - 每個東西的筆記會在各資料夾的README
-- 要不然就看code
+- code 裡面也有部分註解
 
-[另外的筆記記錄](https://hackmd.io/s/S1OzL1Y17)
+[另外的私人blogger筆記](http://araikumama.blogspot.com/)
