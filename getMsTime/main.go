@@ -2,11 +2,17 @@ package main
 
 import (
 	"fmt"
+	"log"
 	"time"
 )
 
 func main() {
 
+	a := time.Now()
+	log.Println(a)
+}
+
+func test1() {
 	start := time.Now()
 
 	a := 0
@@ -19,4 +25,3 @@ func main() {
 	fmt.Println(a)
 	fmt.Println(ms)
 }
-

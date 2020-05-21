@@ -22,17 +22,17 @@ redis with golang
 - 執行指令
 
         docker-compose up -d redis
-        
+
 #### 2. phpRedisAdmin
 - dockerhub 上有人做好的可以用！
 - 執行指令
-    
-        docker run --rm -it -e REDIS_1_HOST=192.168.152.2 -e REDIS_1_NAME=MyRedis -p 80:80 erikdubbelboer/phpredisadmin
+
+        docker run --rm -it -e REDIS_1_HOST=192.168.152.84 -e REDIS_1_NAME=MyRedis -p 80:80 erikdubbelboer/phpredisadmin
 
 **192.168.152.2 是本機IPv4 位置**
 
 ![](https://i.imgur.com/Tt2PkrB.png =600x150)
-    
+
 ```
 ```
 
